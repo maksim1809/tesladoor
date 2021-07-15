@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3f0d36b-50b6-4fe2-9d63-d5ac3e2b10af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tyfg6QCPIgv59OtV2NIRVpVS5X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\style" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images\icon" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\script" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images\clients" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images\social" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images\icon" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images\certificate" />
+      <recent name="C:\Users\Notnik_kg\OneDrive\Рабочий стол\tesladoor\images\background" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3f0d36b-50b6-4fe2-9d63-d5ac3e2b10af" name="Default Changelist" comment="" />
+      <created>1623746357008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623746357008</updated>
+      <workItem from="1623746358205" duration="30968000" />
+      <workItem from="1623817062323" duration="5333000" />
+      <workItem from="1623824078830" duration="98572000" />
+      <workItem from="1624102999101" duration="28073000" />
+      <workItem from="1624246889073" duration="19544000" />
+      <workItem from="1624340117725" duration="2541000" />
+      <workItem from="1624435993894" duration="708000" />
+      <workItem from="1624436943805" duration="4491000" />
+      <workItem from="1624461878161" duration="514000" />
+      <workItem from="1624464158528" duration="2054000" />
+      <workItem from="1624512243672" duration="6269000" />
+      <workItem from="1624680020327" duration="828000" />
+      <workItem from="1624687580015" duration="348000" />
+      <workItem from="1625212767264" duration="155000" />
+      <workItem from="1625726458793" duration="314000" />
+      <workItem from="1625729773765" duration="6000" />
+      <workItem from="1625815387583" duration="105000" />
+      <workItem from="1626080966746" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623746388458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1623746388458" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624285754695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1624285754695" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624685675221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624685675221" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624281356076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1624281356076" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1624281356076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1624281356076" />
+  </component>
+</project>
